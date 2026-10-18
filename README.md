@@ -16,6 +16,10 @@ BOM: BOM.cvs can be found in the root of the project.
 
 Here are some pictures:
 
+<img width="1920" height="722" alt="73a39dcd-c09e-4660-bf79-17b7705ea45a" src="https://github.com/user-attachments/assets/36f0098a-fad3-4021-b1a5-c24df425d887" />
+
+
+
 <img width="1293" height="705" alt="image" src="https://github.com/user-attachments/assets/f0db15e9-c195-4478-9bc2-6a301d0278c4" />
 <img width="1519" height="529" alt="image" src="https://github.com/user-attachments/assets/d9f09031-7ae2-48e5-9758-144ef5b54737" />
 
