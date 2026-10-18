@@ -1,3 +1,4 @@
+[BOM.csv](https://github.com/user-attachments/files/33630633/BOM.csv)
 # Chess set
 It's a chess set for week 2 of half life and im making this to get better at CAD and go trough the week.
 I havent found many issues doing this but didn't have much time and CAD isn't really one of the things i love doing
@@ -6,7 +7,10 @@ I am making this too play too.
 It features magnets too that i will attach with super glue...
 
 
-BOM: BOM.cvs can be found in the root of the project
+BOM: BOM.cvs can be found in the root of the project.
+
+<img width="1388" height="152" alt="image" src="https://github.com/user-attachments/assets/cb6fcb1c-c313-446f-a149-192183a7eba1" />
+
 
 
 Here are some pictures:
