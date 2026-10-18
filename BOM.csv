@@ -1,2 +1,5 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Name,,,Purpose,,,Quantity,,,Cost (USD),,,Total cost (USD)
+,,,,,,,,,,,,
+PLA,,,Printing,,,1kg,,,$15.40,,,$28.30
+Super Glue,,,Gluing magnets,,,1pc,,,$3.93,,,
+6x2 neodymium Magnets,,,Magnet features,,,64pcs,,,$8.99,,,
