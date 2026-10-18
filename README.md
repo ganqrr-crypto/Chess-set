@@ -5,6 +5,10 @@ but i kinda held in there.
 I am making this too play too.
 It features magnets too that i will attach with super glue...
 
+
+BOM: BOM.cvs can be found in the root of the project
+
+
 Here are some pictures:
 
 <img width="1293" height="705" alt="image" src="https://github.com/user-attachments/assets/f0db15e9-c195-4478-9bc2-6a301d0278c4" />
