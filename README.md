@@ -10,6 +10,7 @@ It features magnets too that i will attach with super glue...
 BOM: BOM.cvs can be found in the root of the project.
 
 <img width="1388" height="152" alt="image" src="https://github.com/user-attachments/assets/cb6fcb1c-c313-446f-a149-192183a7eba1" />
+<img width="1292" height="186" alt="image" src="https://github.com/user-attachments/assets/a8143601-5506-4e87-ad96-2de9bb7d933c" />
 
 
 
